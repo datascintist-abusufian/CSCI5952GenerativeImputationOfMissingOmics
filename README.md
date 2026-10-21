@@ -2,6 +2,8 @@
 
 **Corresponding author:** Muhammad Babar ([muhammad.babar@ucdenver.edu](mailto:muhammad.babar@ucdenver.edu))
 
+> **Archived copy.** This repository is an archived copy of the original project repository maintained by Muhammad Babar: <https://github.com/mbabar1100/CSCI5952GenerativeImputationOfMissingOmics>. It is mirrored here to provide a permanent Zenodo DOI for the code used in the study.
+
 Developed as part of **CSCI 5952 — Big Data Science** (team: Muhammad Babar, Kathryn Eron, Kavya Avula, Susmitha Rachuri).
 
 ---
