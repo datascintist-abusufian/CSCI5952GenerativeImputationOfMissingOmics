@@ -1,5 +1,7 @@
 # Cross-Modal Recovery of Missing Genomic Signals: Benchmarking Imputation Strategies Under Structured Missingness in Pan-Cancer Multi-Omics Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23547898.svg)](https://doi.org/10.5281/zenodo.23547898)
+
 **Corresponding author:** Muhammad Babar ([muhammad.babar@ucdenver.edu](mailto:muhammad.babar@ucdenver.edu))
 
 > **Archived copy.** This repository is an archived copy of the original project repository maintained by Muhammad Babar: <https://github.com/mbabar1100/CSCI5952GenerativeImputationOfMissingOmics>. It is mirrored here to provide a permanent Zenodo DOI for the code used in the study.
