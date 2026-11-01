@@ -10,6 +10,12 @@ Developed as part of **CSCI 5952 — Big Data Science** (team: Muhammad Babar, M
 
 ---
 
+## At a glance
+
+![Study overview](docs/figures/CSCI5952_overview.png)
+
+**Figure 1. Study overview.** (a) TCGA pan-cancer cohort: paired mRNA and CNV for 8,314 samples across 32 cancer types. (b) Structured missingness: random, sample-targeted and feature-targeted masking. (c) Within-modality (mean, KNN) and cross-modal (linear, ridge, neural encoder–decoder 3,217→512→128→512→3,105) imputation. (d) Evaluation plotted from this repository's result files: confirmatory test set, gene-level reconstruction, leave-one-cancer-out, prognostic C-index, architecture ablation and downstream analyses.
+
 ## Contents
 
 1. [Description](#description)
